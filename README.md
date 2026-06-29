@@ -1,4 +1,4 @@
-# CS-370---Module-8
+# CS-360---Module-8
 
 For this project, I developed an intelligent pirate agent using reinforcement learning. I was provided with starter code that included the game environment, the maze layout, helper functions, and portions of the deep Q-learning framework. The starter code established the structure of the project and allowed me to focus on implementing the learning algorithm.
 
